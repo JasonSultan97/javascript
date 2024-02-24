@@ -34,7 +34,7 @@
 
 // var num = 6; //10; //30
 
-
+ 
 // if(num === 6) {
 //     console.log('3ga bolinadi');
 // }else if(num === 10) {
